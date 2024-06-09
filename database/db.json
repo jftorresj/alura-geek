@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Marge Simpson",
+      "price": "25",
+      "image": "https://hips.hearstapps.com/cosmopolitan-uk/cm/14/30/53d501cd27e87_-_marge-simpson-marilyn-monroe-de.png",
+      "id": "2"
+    },
+    {
+      "name": "Bart Simpson",
+      "price": "45",
+      "image": "https://www.shutterstock.com/image-vector/simpsons-skateboard-play-playing-sport-600nw-2324813119.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Lisa Simpson",
+      "price": "30",
+      "image": "https://cdn.costumewall.com/wp-content/uploads/2015/09/lisa-simpson.jpg",
+      "id": "4"
+    },
+    {
+      "name": "Maggie Simpson",
+      "price": "15",
+      "image": "https://cdn.costumewall.com/wp-content/uploads/2015/09/maggie-simpson.jpg",
+      "id": "5"
+    },
+    {
+      "id": "e71a",
+      "name": "Moe",
+      "price": "50",
+      "image": "https://i.discogs.com/VjkWcp4YgIzyhwM8cHM2ieJ3WP9xV5eE2CXi2wgin9c/rs:fit/g:sm/q:90/h:348/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3NzAw/MzUtMTI3MzY0MzA1/MS5qcGVn.jpeg"
+    }
+  ]
+}
